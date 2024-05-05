@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am a Master student of Data Science with a bachelor's degree in Mathematics.
 
-Currently seeking an internship to further deepen my knowledge and to undertake a thesis project.
-
 
 
 <!--
