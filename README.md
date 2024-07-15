@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am a Master student of Data Science with a bachelor's degree in Mathematics.
+I'm currently doing a Data Science internship @ TomTom, in Madrid! 
 
 
 
