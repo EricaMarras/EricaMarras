@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Master student of Data Science with a bachelor's degree in Mathematics.
+Data Scientist with a Master's degree from the University of Padua. I completed an internship at TomTom in Madrid and am currently looking for new opportunities to further develop my skills. Here, you'll find a collection of my university projects!
 
 
 
